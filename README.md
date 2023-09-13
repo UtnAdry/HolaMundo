@@ -1,4 +1,3 @@
 # Hola-mundo
 Clases Metodología
-
-Clase 3 modificada
+Clase 3 modificaciones nuevas

@@ -1,3 +1,3 @@
-# Hola-mundo
-Clases Metodología
-Clase 3 modificaciones 
+# Hola-mundo👋
+📚Clases Metodología
+📝Clase 3 modificaciones 
